@@ -1,2 +1,2 @@
 # google-homepage
-Deconstruct and rebuild the Google homepage using HTML and CSS.
+Rebuild the Google homepage using HTML and CSS.
